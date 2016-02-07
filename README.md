@@ -10,7 +10,7 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
 
  - `06724-Codebook.pdf`
  - `06724-0001-Data.txt`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 **from Step 2**
 
@@ -18,13 +18,13 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
  - `robbins_etl_06724-0001-Data-Crosswalk-1994.xlsx`
  - `robbins_etl_06724-0001-Data-Analysis-1994.accdb`
  - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 **from Step 3**
 
  - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.vsdx`
  - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.pdf`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 # Processing in Step 4
 
@@ -73,7 +73,7 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
 
  - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994-updated.vsdx`
  - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994-updated.pdf`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
  
 **Script files to create tables (SQL Plus)**
  
@@ -82,7 +82,7 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
  - `create_table_processing_year_code.sql`
  - `create_table_processing_quarter_code.sql`
  - `template_create_table_x_code.sql`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 **Comma separated value files with data to load into tables using SQL Loader**
 
@@ -99,7 +99,7 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
  - `record_type_code.ctl`
  - `processing_year_code.ctl`
  - `processing_quarter_code.ctl`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 **Log files created by loads**
 
@@ -107,13 +107,13 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
  - `record_type_code_data.log`
  - `processing_year_code_data.log`
  - `processing_quarter_code_data.log`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 **passed from Step 1**
 
  - `06724-Codebook.pdf`
  - `06724-0001-Data.txt`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 **passed from Step 2**
 
@@ -121,12 +121,12 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
  - `robbins_etl_06724-0001-Data-Crosswalk-1994.xlsx`
  - `robbins_etl_06724-0001-Data-Analysis-1994.accdb`
  - `robbins_etl_06724-0001-Data-Analysis-1994.xlsx`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5) 
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5) 
 
 **passed from Step 3**
 
  - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.vsdx`
  - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.pdf`
- - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
+ - these can be reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 Please feel free to move to the ETL_5 repository at this point or at some future moment at your convenience.
