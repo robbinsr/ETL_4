@@ -22,8 +22,8 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
 
 **from Step 3**
 
- - robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.vsdx
- - robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.pdf
+ - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.vsdx`
+ - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.pdf`
  - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
 # Processing in Step 4
@@ -55,17 +55,17 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
 1.  - Compare each Oracle table's content with tables in `etl_robbinsr_06724-0001-Data.accdb`
 1.  - Rework
 
-**Special Notes:
+**Special Notes:**
 
  - A user id named `C##NATL_HEALTH` must be created in the `PDB`.
  - The table designs have changed from Step 3. Namely
   - The `PSU_RANDOM_RECODE_CODE` field in the `household` table is renamed `PSU_RANDOM_RECODE_NUMBER` .
   - The renamed `PSU_RANDOM_RECODE_NUMBER` field is not a foreign key, but remains a composite primary key component.
   - The `PSU_RANDOM_RECODE_CODE` table has been eliminated.
-- SQL Plus with C##NATL_HEALTH id is used to run create_table scripts.
-- SQL Loader with C##NATL_HEALTH id is used with *.ctl and *.csv files to load tables.
-- Due to the amount of effort necessary to load all tables, only household, record_type_code, processing_year_code, and processin_quarter_code were filled.
-- Note that the inputs to Step 5 are not the same as the outputs of Step 4.
+- SQL Plus with `C##NATL_HEALTH` id is used to run `create_table*.sql` scripts.
+- SQL Loader with `C##NATL_HEALTH` id is used with `*.ctl` and `*.csv `files to load tables.
+- Due to the amount of effort necessary to load all tables, only `household`, `record_type_code`, `processing_year_code`, and `processing_quarter_code` were filled.
+- Note that the inputs to Step 5 are not identical to the outputs of Step 4 (an additional data source is used.)
 
 # Outputs from Step 4
 
@@ -129,3 +129,4 @@ You are reading the README.md file in the ETL_4 repository for Russ Robbins. Thi
  - `robbinsr_etl_06724-0001-Data-Code-Tables-Design-1994.pdf`
  - these can bee reached at [https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5](https://github.com/robbinsr/ETL_4/tree/master/transforming_household/to_step_5)
 
+Please feel free to move to the ETL_5 repository at this point or at some future moment at your convenience.
