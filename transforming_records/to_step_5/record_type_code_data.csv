@@ -1,0 +1,6 @@
+RECORD_TYPE_CODE,RECORD_TYPE_CODE_SHORT_DESC,RECORD_TYPE_CODE_LONG_DESC,RECORD_TYPE_CODE_REFERENCE
+10,Household Record,,,\n
+20,Person Record,,,\n
+30,Condition Record,,,\n
+40,Doctor Visit Record,,,\n
+50,Hospital Record,,,\n

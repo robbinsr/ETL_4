@@ -1,0 +1,68 @@
+File Manifest for ICPSR 6724
+
+U.S. Dept. of Health and Human Services, National Center for Health
+Statistics. NATIONAL HEALTH INTERVIEW SURVEY, 1994. ICPSR version.
+Hyattsville, MD: U.S. Dept. of Health and Human Services, National Center
+for Health Statistics [producer], 1995. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 1996.
+http://doi.org/10.3886/ICPSR06724.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06724-related_literature.txt        -       -         -       2016-01-24  -
+
+    06724-manifest.txt                  -       -         -       2016-01-25  -
+
+    06724-Codebook.pdf                  -       -         -       1997-06-03  9fd646c9dafd1c1b1aafae1f065a4194
+
+
+DS0001 Household Record
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06724-0001-Data.txt                 335     48,584    unknown 1996-06-27  0c39c13d92568b6968b9d20a563c4040
+
+
+DS0002 Person Record
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06724-0002-Data.txt                 335     116,179   unknown 1996-06-27  3d586e9cb94094f1f8012a24aaceb0c2
+
+
+DS0003 Condition Record
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06724-0003-Data.txt                 335     89,199    unknown 1996-06-27  cfad7156473866824aacdfd4c55bec14
+
+
+DS0004 Doctor Visit Record
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06724-0004-Data.txt                 335     27,366    unknown 1996-06-27  c15e8cc3ad30b5580a3fbea1b98eecb2
+
+
+DS0005 Hospital Record
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    06724-0005-Data.txt                 335     11,811    unknown 1996-06-27  5f60c30efce9dcaf9af1ab99604f307e
+
+
+Version History
+
+2006-01-12 All files were removed from dataset 6 and flagged as study-level
+files, so that they will accompany all downloads.
